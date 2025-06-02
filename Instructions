@@ -1,0 +1,16 @@
+🔧 Setup
+Clone the repository:
+git clone https://github.com/yourusername/storybot.git
+
+Open CMD and type:
+cd storybot #folder name
+
+Create a virtual environment (optional but recommended):
+python -m venv venv
+venv\Scripts\activate  # On Windows
+
+Install dependencies:
+pip install openai
+
+Don't forget to add your secret API key in the code:
+Add your OpenAI API key in the code where indicated.
